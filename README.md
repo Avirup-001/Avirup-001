@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Avirup-001
-- 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Avirup
+- 👀 I’m interested in Software engineering/DevOps engineering
+- 🌱 I’m currently learning DevOps and it's fundamentals
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me - avirup.banik2017@gmail.com
 
