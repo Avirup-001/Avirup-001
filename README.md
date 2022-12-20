@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Avirup
-- 👀 I’m a full stack MERN deveoper based in INDIA 
+- 👀 I’m a MERN stack deveoper based in INDIA 
 - 🌱 I’m currently looking for new opportunities
 - 💞️ I’m looking to collaborate on intermediate projects
 - 📫 How to reach me - avirup.banik2017@gmail.com
