@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Avirup
-- 👀 I’m interested in Software engineering/DevOps engineering
-- 🌱 I’m currently learning DevOps and it's fundamentals
-- 💞️ I’m looking to collaborate on beginner projects
+- 👀 I’m a full stack MERN deveoper based in INDIA 
+- 🌱 I’m currently looking for new opportunities
+- 💞️ I’m looking to collaborate on intermediate projects
 - 📫 How to reach me - avirup.banik2017@gmail.com
 
 <!---
