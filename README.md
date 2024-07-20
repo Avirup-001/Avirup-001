@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Avirup
-- 👀 I’m a Software Engineer at Filpart, based in Bengaluru, India 
+- 👀 I’m a Software Engineer at Filpkart, based in Bengaluru, India 
 - 🌱 I’m currently looking for remote opportunities
 - 💞️ I’m looking to collaborate on intermediate projects
 - 📫 How to reach me - avirup.banik2017@gmail.com
