@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Avirup
-- 👀 I’m a Software Engineer at Filpkart, based in Bengaluru, India 
+- 👀 I’m a Software Engineer based in Bengaluru, India 
 - 📫 How to reach me - avirup.banik2017@gmail.com
 
 <!---
